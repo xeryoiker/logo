@@ -1,0 +1,10 @@
+{
+  "guacamoleVersion": "*",
+  "name": "Mi Branding Personalizado",
+  "namespace": "es.xeryo.branding",
+  "html": [],
+  "css": [],
+  "resources": {
+    "images/guac-tricolor.svg": "images/guac-tricolor.svg"
+  }
+}
